@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Appraiser">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAQEAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Appraiser.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coin">
+    <Position X="0.5" Y="3.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAAAAAAAAAAGAAAAAABQAAAAQAACAAQAAgAAAAAAA=</HashCode>
+      <FileName>Coin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoneyBag">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAABAAAAEAAAAAAAAAAAAEAkAAAAAAAAAAAA=</HashCode>
+      <FileName>MoneyBag.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reale">
+    <Position X="4.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQgAAAAAA=</HashCode>
+      <FileName>Reale.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shipwreck">
+    <Position X="4.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQAABAAAAAAAAAAQAQAAAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Shipwreck.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TreasureHunt">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAEAAAAUEAAAAAAAAAEAAACAAABEBAAAAAAAAAAAA=</HashCode>
+      <FileName>TreasureHuntGame.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="spanishGalleon_" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
